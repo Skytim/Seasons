@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/Skytim/Seasons/static/js/main.405c0fcf.chunk.js"
   },
   {
-    "revision": "2b729b2164913af15d2e",
-    "url": "/Skytim/Seasons/static/js/1.2b729b21.chunk.js"
+    "revision": "29ff1a208e084e736e02",
+    "url": "/Skytim/Seasons/static/js/1.29ff1a20.chunk.js"
   },
   {
     "revision": "5df4804ebc5a697444e8",
     "url": "/Skytim/Seasons/static/js/runtime~main.5df4804e.js"
   },
   {
-    "revision": "4b912d8f4d457659e1a8b98dd9871679",
+    "revision": "7571efea2a72b48dfef090cd23c6d3ae",
     "url": "/Skytim/Seasons/index.html"
   }
 ];

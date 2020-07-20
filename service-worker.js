@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Skytim/Seasons/precache-manifest.cecda79df7d249279d44a292f2f4a1c0.js"
+  "/Skytim/Seasons/precache-manifest.25aaec2adaeeac2172f4ed3c37bddf9d.js"
 );
 
 workbox.clientsClaim();
