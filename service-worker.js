@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Skytim/Seasons/precache-manifest.25aaec2adaeeac2172f4ed3c37bddf9d.js"
+  "/Seasons/precache-manifest.3f3b0d3b52d77cd94ad6a84e0f08bdc3.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Skytim/Seasons/index.html", {
+workbox.routing.registerNavigationRoute("/Seasons/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

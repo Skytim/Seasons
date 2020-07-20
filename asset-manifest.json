@@ -1,13 +1,13 @@
 {
-  "main.css": "/Skytim/Seasons/static/css/main.04635e41.chunk.css",
-  "main.js": "/Skytim/Seasons/static/js/main.405c0fcf.chunk.js",
-  "main.js.map": "/Skytim/Seasons/static/js/main.405c0fcf.chunk.js.map",
-  "static/js/1.29ff1a20.chunk.js": "/Skytim/Seasons/static/js/1.29ff1a20.chunk.js",
-  "static/js/1.29ff1a20.chunk.js.map": "/Skytim/Seasons/static/js/1.29ff1a20.chunk.js.map",
-  "runtime~main.js": "/Skytim/Seasons/static/js/runtime~main.5df4804e.js",
-  "runtime~main.js.map": "/Skytim/Seasons/static/js/runtime~main.5df4804e.js.map",
-  "static/css/main.04635e41.chunk.css.map": "/Skytim/Seasons/static/css/main.04635e41.chunk.css.map",
-  "index.html": "/Skytim/Seasons/index.html",
-  "precache-manifest.25aaec2adaeeac2172f4ed3c37bddf9d.js": "/Skytim/Seasons/precache-manifest.25aaec2adaeeac2172f4ed3c37bddf9d.js",
-  "service-worker.js": "/Skytim/Seasons/service-worker.js"
+  "main.css": "/Seasons/static/css/main.04635e41.chunk.css",
+  "main.js": "/Seasons/static/js/main.405c0fcf.chunk.js",
+  "main.js.map": "/Seasons/static/js/main.405c0fcf.chunk.js.map",
+  "static/js/1.29ff1a20.chunk.js": "/Seasons/static/js/1.29ff1a20.chunk.js",
+  "static/js/1.29ff1a20.chunk.js.map": "/Seasons/static/js/1.29ff1a20.chunk.js.map",
+  "runtime~main.js": "/Seasons/static/js/runtime~main.d437c792.js",
+  "runtime~main.js.map": "/Seasons/static/js/runtime~main.d437c792.js.map",
+  "static/css/main.04635e41.chunk.css.map": "/Seasons/static/css/main.04635e41.chunk.css.map",
+  "index.html": "/Seasons/index.html",
+  "precache-manifest.3f3b0d3b52d77cd94ad6a84e0f08bdc3.js": "/Seasons/precache-manifest.3f3b0d3b52d77cd94ad6a84e0f08bdc3.js",
+  "service-worker.js": "/Seasons/service-worker.js"
 }
